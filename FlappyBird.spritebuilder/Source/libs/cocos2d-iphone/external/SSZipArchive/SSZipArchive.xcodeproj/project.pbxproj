@@ -101,6 +101,7 @@
 
 /* Begin PBXFileReference section */
 		011F4B95182D71B700DE704F /* RelativeSymbolicLink.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = RelativeSymbolicLink.zip; sourceTree = "<group>"; };
+		1DF7B3B31B44FF3600F00E48 /* MyPlayground2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground2.playground; path = ../../../../../../../Desktop/Development/MyPlayground2.playground; sourceTree = "<group>"; };
 		210D524B17DEFB880060D41A /* crypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypt.h; sourceTree = "<group>"; };
 		210D524C17DEFB880060D41A /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
 		210D524D17DEFB880060D41A /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
@@ -198,6 +199,7 @@
 		21CC419C17DB7D1300201DDC = {
 			isa = PBXGroup;
 			children = (
+				1DF7B3B31B44FF3600F00E48 /* MyPlayground2.playground */,
 				21CC41D717DB7D2F00201DDC /* SSZipArchive */,
 				21CC420017DB7D6300201DDC /* Example */,
 				21CC41EE17DB7D3500201DDC /* Tests */,
